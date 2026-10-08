@@ -1,0 +1,7 @@
+{
+  "name": "Sapna AI",
+  "description": "Production JARVIS-inspired AI voice assistant with bilingual Hindi and English speech recognition, real-time voice synthesis, intelligent app launching, and system actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
